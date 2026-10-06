@@ -374,8 +374,8 @@ Transform:
   m_GameObject: {fileID: 420148124}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0162, y: 0.31, z: 0}
-  m_LocalScale: {x: 0.44716683, y: 0.4747739, z: 1}
+  m_LocalPosition: {x: 0.4638, y: 0.31, z: 0}
+  m_LocalScale: {x: 0.87172425, y: 0.4747739, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1122,8 +1122,8 @@ Transform:
   m_GameObject: {fileID: 1570479543}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: -3.87, z: 0}
-  m_LocalScale: {x: 0.447675, y: 0.341908, z: 1}
+  m_LocalPosition: {x: 0.7059, y: -2.9723, z: 0}
+  m_LocalScale: {x: 0.88514173, y: 0.31913692, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1273,7 +1273,7 @@ GameObject:
   - component: {fileID: 1762502981}
   - component: {fileID: 1762502980}
   m_Layer: 5
-  m_Name: Start
+  m_Name: Home
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1345,8 +1345,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 28
+  m_fontSizeBase: 28
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1624,8 +1624,8 @@ Transform:
   m_GameObject: {fileID: 1886564107}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0116, y: -2.3, z: 0}
-  m_LocalScale: {x: 0.44675824, y: 0.40616214, z: 1}
+  m_LocalPosition: {x: 0.5259, y: -0.1483, z: 0}
+  m_LocalScale: {x: 0.87748605, y: 0.56932116, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
